@@ -1,0 +1,28 @@
+.TitleBody{
+    padding-bottom: 80px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.line{
+    top: 0;
+    left: 50%;
+    height: 200px;
+    border-left: 1px solid #001971;
+}
+.picContainer{
+    position: relative;
+    overflow: hidden;
+    width: 320px;
+    height: 360px;
+    border-radius: 50% 50% 0px 0px;
+    outline: solid 1px #001971;
+    outline-offset: 10px;
+}
+.titles{
+    text-align: center;
+    line-height: 80%;
+}

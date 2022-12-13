@@ -1,0 +1,32 @@
+.cardContainer{
+    width: 450px;
+}
+
+.projectButton{
+    cursor: pointer;
+}
+
+.thumbContainer{
+    position: relative;
+    border-radius: 8%;
+    border: solid 1px #001971;
+    outline: solid 1px #001971;
+    outline-offset: 10px;
+    height: 285px;
+    width: 400px;
+    overflow: hidden;
+}
+
+.projectText{
+    text-align: center;
+    padding-top: 15px;
+}
+
+.projectTitle{
+    font-size: 24px;
+    font-weight: bold;
+}
+.projectRoles{
+    letter-spacing: 2px;
+    padding: 5px;
+}
